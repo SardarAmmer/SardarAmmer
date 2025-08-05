@@ -1,6 +1,6 @@
 # Hello, I'm Sardar Ammer Qadeer 👋  
 
-🎓 **Final Year BS Computer Science Student** | **Research Assistant** | **Full-Stack Developer**  
+🎓 **BS Computer Science (CGPA 3.8)** | **Data Analyst** || **Research Assistant** | **Full-Stack Developer**  
 🔹 *Passionate about building scalable solutions and leveraging AI for real-world problems.*  
 
 ---
@@ -9,7 +9,7 @@
 **Languages**: Java, Python, JavaScript  
 **Backend**: Django, Spring Boot  
 **AI/ML**: YOLOv8, Data Analysis, Decision Trees, Regression Models  
-**Tools**: Power BI, Git  
+**Tools**: Power BI, Git , Excel
 
 ---
 
@@ -48,7 +48,7 @@
 ---
 
 ## 🌐 **Connect With Me**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)]https://www.linkedin.com/in/sardar-ammer-qadeer-16657926a  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin]https://www.linkedin.com/in/sardar-ammer-qadeer-16657926a  
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)]sardarammer977@gmail.com
 
 💬 **Ask me about**: AI, Java backend development, or how to make data *speak* with Power BI!  
