@@ -48,7 +48,7 @@
 ---
 
 ## 🌐 **Connect With Me**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin]https://www.linkedin.com/in/sardar-ammer-qadeer-16657926a  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)]https://www.linkedin.com/in/sardar-ammer-qadeer-16657926a  
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)]sardarammer977@gmail.com
 
 💬 **Ask me about**: AI, Java backend development, or how to make data *speak* with Power BI!  
